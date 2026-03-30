@@ -1,6 +1,6 @@
 # Clean CSV Architecture - C#
 
-Este proyecto implementa la lectura de archivos CSV utilizando principios de Clean Architecture en C#. Además, se realiza análisis de calidad de código mediante SonarQube.
+Este proyecto implementa la lectura de archivos CSV utilizando principios de la Arquitectura Limpia en C#. Además, se realiza análisis de calidad de código mediante SonarQube.
 
 # Arquitectura
 
@@ -15,7 +15,7 @@ El sistema está organizado en tres capas principales:
 - **CapaDatos (DAL):**
   Encargada de la lectura del archivo CSV y conversión a DataTable.
 
-# Principios de Clean Architecture aplicados
+# Principios de la Arquitectura Limpia aplicados
 
 - Separación de responsabilidades
 - Inversión de dependencias

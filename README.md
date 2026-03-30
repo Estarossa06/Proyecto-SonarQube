@@ -64,11 +64,11 @@ Posteriormente se realizaron mejoras como:
 # Estructura del proyecto
 
 CleanCSVArchitecture/
-├── CapaDatos/
-├── CapaNegocio/
-├── CapaPresentacion/
-├── CleanCSV.sln
-└── README.md
+ CapaDatos/
+ apaNegocio/
+ CapaPresentacion/
+ CleanCSV.sln
+ README.md
 
 # Conclusión
 
